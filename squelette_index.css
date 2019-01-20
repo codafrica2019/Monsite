@@ -1,0 +1,51 @@
+/* Concerne tout la page */
+html, #body {
+   margin:0px!important;
+   background:white;
+}
+#responsible_footer {
+  
+  border:1px solid black;
+}
+
+/* Pour la barre de navigation principal en haut et fixe*/
+html{
+	padding:10px;
+}
+#principal_top_nav_fixed {
+  height:30px;
+  border:1px solid black;
+  }
+
+/* Pour la légende du site*/
+#legeng_codafric {
+  border:1px solid black;
+  height:40px;
+}
+
+/* Pour le Slider */
+#big_top_Slider_auto {
+  border:1px solid black;
+  height:200px;
+}
+
+/* Conteneur principal de la page */
+#principal_center_body {
+  height:auto;
+  border:1px solid black;
+}
+#margin_option_in_left, #body_in_left {
+  vertical-align:top;
+  height:300px;
+  display:inline-block;
+}
+
+#margin_option_in_left {
+  width:26%;
+  border:1px solid black;
+}
+
+#body_in_left {
+  width:71%;
+  border:1px solid black;
+}
