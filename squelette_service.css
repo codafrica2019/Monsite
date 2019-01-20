@@ -1,0 +1,106 @@
+/* Concernant toute la page */
+html, body{
+  margin:0px;
+  padding:0px;
+  padding:10px;
+}
+
+/* Pour nav bar */
+#principal_fixée_nav_logo_in_top{
+  height:1cm;
+  border:1px solid blue;
+  width:100%;
+}
+
+/* Pour section A h:10cm */
+#section_a{
+  height:10cm;
+  border:1px solid blue;
+  width:100%;
+}
+
+/* Pour section b h:3cm 1/2 1/2*/
+#section_b{
+  height:3cm;
+  border:1px solid blue;
+  width:100%;
+}
+
+/* pour section C h:3cm 1/2 1/2 */
+#section_c{
+  height:3cm;
+  border:1px solid blue;
+  width:100%;
+}
+
+/* Pour pied de page */
+#responsive_footer{
+  height:5cm;
+  border:1px solid blue;
+  width:100%;
+}
+
+/* Pour pu */
+#pu1{
+  height:3cm;
+  width:48%;
+  border:0px;
+}
+
+#pu2{
+  margin-left:-3px;
+  height:3cm;
+  width:48%;
+  border-left:1px solid blue;
+}
+
+#su1, #su2{
+  vertical-align:top;
+  display:inline-block;
+}
+
+/* pour su */
+#su1{
+  height:3cm;
+  width:48%;
+  border:0px;
+}
+
+#su2{
+  height:3cm;
+  width:48%;
+  margin-left:-3px;
+  border:0px;
+  border-left:1px solid blue;
+}
+
+#pu1, #pu2{
+  vertical-align:top;
+  display:inline-block;
+}
+
+/* Logo principal haut gauche 1/4  */
+#logo_p{
+  height:1cm;
+  border:1px solid blue;
+  width:25%;
+}
+
+/* Title 3/4 */
+#title_p{
+  width:72%;
+}
+
+/* section 3 */
+#section_d{
+  height:1cm;
+  width:100%;
+  border:1px solid blue;
+}
+
+/* Section C h:3cm */
+#section_e{
+  height:3cm;
+  width:100%;
+  border:1px solid blue;
+}
