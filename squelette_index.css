@@ -1,32 +1,79 @@
+
 /* Concerne tout la page */
 html, #body {
    margin:0px!important;
-   background:white;
+   background:#e9e9e9;
 }
 #responsible_footer {
-  
+  background-color:grey;
   border:1px solid black;
+  height:150px;
 }
+#responsible_footer a{
+  list-style-type:none;
+ 
+}
+
 
 /* Pour la barre de navigation principal en haut et fixe*/
 html{
 	padding:10px;
 }
 #principal_top_nav_fixed {
-  height:30px;
+	width:;
+  height:;
   border:1px solid black;
+  background-color:grey;
+}
+nav{
+	text-align:center;
+	
+}
+nav ul{
+	padding:0px;
+  margin:0px;
+  list-style-type:none;
+  }
+  nav li{
+	display:inline-block;
+	width:100px;
+	height:40px;
+	margin:0px;
+	padding:0px;
+	border-right:1px solid #cccccc;
+	text-align:center;
+	  
+  }
+  nav li a{
+	  display:block;
+	  text-decoration:none;
+	  color: white;
+	    
+  }
+  table{
+	  
+	  
+	  background-color:#e6e6fa;
+  }
+  nav li:hover{
+	  background-color:blue;
+	  
   }
 
 /* Pour la légende du site*/
 #legeng_codafric {
   border:1px solid black;
-  height:40px;
+  height:;
+  width:;
 }
-
+.imageDefilant li:hover
+{
+	background-color:red;
+}
 /* Pour le Slider */
 #big_top_Slider_auto {
   border:1px solid black;
-  height:200px;
+  height:;
 }
 
 /* Conteneur principal de la page */
@@ -41,11 +88,11 @@ html{
 }
 
 #margin_option_in_left {
-  width:26%;
+  width:30%;
   border:1px solid black;
 }
 
 #body_in_left {
-  width:71%;
+  width:;
   border:1px solid black;
 }
